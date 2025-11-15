@@ -50,4 +50,4 @@ Everything is stored in `localStorage`, so your data stays on your device.
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/COdeChic5YOUR-USERNAME/Personal-Command-Center.gittorage.
+   git clone https://github.com/COdeChic5/Personal-Command-Center
